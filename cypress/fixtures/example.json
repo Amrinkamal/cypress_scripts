@@ -1,0 +1,10 @@
+{
+  "username":"standard_user",
+  "password":"secret_sauce",
+  "prods":["Bike","Bolt","Backpack"],
+  "custfirst":"Amrin",
+  "custlast":"Fathima",
+  "pin":"600021"
+
+  
+}
